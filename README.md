@@ -1,3 +1,6 @@
+<img width="1037" height="632" alt="image" src="https://github.com/user-attachments/assets/58f36225-50f3-40d6-a9f9-fc43c82af5bf" />
+
+
 # Retro-Game-Buddy
 **Retro Game Buddy** is a compact, portable retro gaming device designed as a small desktop companion. The project combines embedded electronics, PCB design, programming, and 3D-printed mechanical design into one functional device.
 
